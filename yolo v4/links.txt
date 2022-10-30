@@ -1,0 +1,3 @@
+https://github.com/theAIGuysCode/tensorflow-yolov4-tflite
+
+https://pylessons.com/YOLOv4-TF2-introduction
